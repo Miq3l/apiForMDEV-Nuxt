@@ -1,0 +1,16 @@
+{
+  "name": "mbdevapi-proxy",
+  "version": "1.0.0",
+  "description": "API for local sever Auth",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miq3l",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1"
+  }
+}
